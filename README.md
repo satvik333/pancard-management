@@ -1,1 +1,1 @@
-This is a console application that allows users to manage their PAN card information. The application provides basic CRUD (Create, Read, Update, Delete) operations for managing PAN card data.
+This is a console application that allows users to manage their PAN card information. The application provides basic CRUD (Create, Read, Update, Delete) operations for managing PAN card data. Users can add a new PAN card, view details of an existing PAN card, edit an existing PAN card, and delete a PAN card from the system.
